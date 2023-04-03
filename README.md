@@ -23,8 +23,7 @@ Once you have cloned the project, open it in VS Code. To do this, navigate to th
 If you do not have Node.js already installed, visit their website and install it.
 Similarly, if you do not have MySQL installed, visit their website and install it. 
 It is recommended to install Nodemon if you have not done so already. You can install it using npm (Node Package Manager).
-Additionally, it is recommended to install Insomnia if you have not already done so. Insomnia is an application that helps you test and debug API requests.
-Finally, this project includes a package.json file that lists all the dependencies required for this project. Run "npm install" in the project directory to install these dependencies.
+Run "npm install" in the project directory to install these dependencies.
 
 <br>
 
