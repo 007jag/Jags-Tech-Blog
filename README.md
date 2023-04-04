@@ -1,6 +1,8 @@
 # jags-tech-blog
 
 ![Badge](https://img.shields.io/badge/license-MIT-blue)
+---
+[link to heroku deployed app](https://jag-tech-blog.herokuapp.com/)
 
 ## Table of Contents
 ---
